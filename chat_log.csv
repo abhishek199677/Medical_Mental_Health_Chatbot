@@ -1,0 +1,10 @@
+timestamp,session_id,query,response,crisis_flag
+2025-03-27T00:26:19.929144,new01,iam feeling overwhelmed with exams," Oh, I'm sorry to hear that. Exams can be a lot to handle. Are you studying for multiple exams at once?",False
+2025-03-27T00:34:48.577274,user_1,How can i manage stress from exams," Stress from exams can be managed in a variety of ways. Some people find it helpful to create a study schedule and stick to it, as this can help reduce the feeling of being overwhelmed. Taking breaks and practicing relaxation techniques, such as deep breathing or meditation, can also help alleviate stress. Additionally, getting enough sleep and exercise can improve overall well-being and help combat stress. It's important to find what works best for you and not be afraid to ask for help from friends, family, or a professional if needed.",False
+2025-03-27T00:35:21.050571,user_1,i want to give up,"💡 It sounds like you're going through a really tough time. You're not alone, and there are people who want to help you. Please consider reaching out to a mental health professional or contacting a helpline:
+
+**India:** 9152987821 (iCall), 1800-599-0019 (Vandrevala Foundation)
+**USA:** 988 (Suicide & Crisis Lifeline)
+**UK:** 116 123 (Samaritans)
+
+You matter. 💙",True
